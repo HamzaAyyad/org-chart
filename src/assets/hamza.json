@@ -1,0 +1,669 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [],
+          "value": {
+            "id": 332,
+            "path": 332,
+            "en": "BAs",
+            "ar": "فريق التحليل",
+            "code": "91",
+            "parentId": 1,
+            "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/BAs-1634029328302.png",
+            "hirarchyRoles": [
+              101610,
+              101583
+            ],
+            "translatable": [
+              {
+                "values": {
+                  "name": "BAs"
+                },
+                "lang": "en"
+              },
+              {
+                "values": {
+                  "name": "فريق التحليل"
+                },
+                "lang": "ar"
+              }
+            ]
+          }
+        },
+        {
+          "children": [],
+          "value": {
+            "id": 329,
+            "path": 329,
+            "en": "Product Management unit",
+            "ar": "Product Management unit",
+            "code": "200",
+            "parentId": 1,
+            "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/Product Management unit-1630592315621.png",
+            "hirarchyRoles": [
+              101583,
+              101582,
+              101608
+            ],
+            "translatable": [
+              {
+                "values": {
+                  "name": "Product Management unit"
+                },
+                "lang": "en"
+              },
+              {
+                "values": {
+                  "name": "Product Management unit"
+                },
+                "lang": "ar"
+              }
+            ]
+          }
+        },
+        {
+          "children": [],
+          "value": {
+            "id": 327,
+            "path": 327,
+            "en": "Consultants ",
+            "ar": "Consultants ",
+            "code": "29",
+            "parentId": 1,
+            "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/Consultants -1628660989036.png",
+            "hirarchyRoles": [
+              101602
+            ],
+            "translatable": [
+              {
+                "values": {
+                  "name": "Consultants "
+                },
+                "lang": "en"
+              },
+              {
+                "values": {
+                  "name": "Consultants "
+                },
+                "lang": "ar"
+              }
+            ]
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [],
+                  "value": {
+                    "id": 337,
+                    "path": 337,
+                    "en": "Accountant Child",
+                    "ar": "Accountant Child",
+                    "code": "445",
+                    "parentId": 324,
+                    "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/Accountant Child-1656423925533.png",
+                    "hirarchyRoles": [
+                      101594,
+                      101595
+                    ],
+                    "translatable": [
+                      {
+                        "values": {
+                          "name": "Accountant Child"
+                        },
+                        "lang": "en"
+                      },
+                      {
+                        "values": {
+                          "name": "Accountant Child"
+                        },
+                        "lang": "ar"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "value": {
+                "id": 324,
+                "path": 324,
+                "en": "Accountants ",
+                "ar": "المحاسبين",
+                "code": "1302",
+                "parentId": 323,
+                "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/Accountants -1624514136415.png",
+                "hirarchyRoles": [
+                  101592
+                ],
+                "translatable": [
+                  {
+                    "values": {
+                      "name": "Accountants "
+                    },
+                    "lang": "en"
+                  },
+                  {
+                    "values": {
+                      "name": "المحاسبين"
+                    },
+                    "lang": "ar"
+                  }
+                ]
+              }
+            }
+          ],
+          "value": {
+            "id": 323,
+            "path": 323,
+            "en": "HR and Accountants ",
+            "ar": "المحاسبين والموارد البشرية",
+            "code": "1301",
+            "parentId": 1,
+            "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/HR and Accountants -1624513959527.png",
+            "hirarchyRoles": [
+              101592
+            ],
+            "translatable": [
+              {
+                "values": {
+                  "name": "HR and Accountants "
+                },
+                "lang": "en"
+              },
+              {
+                "values": {
+                  "name": "المحاسبين والموارد البشرية"
+                },
+                "lang": "ar"
+              }
+            ]
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [],
+              "value": {
+                "id": 333,
+                "path": 333,
+                "en": "Mindex development team",
+                "ar": "Mindex development team",
+                "code": "98",
+                "parentId": 161,
+                "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/Mindex development team-1634030960740.png",
+                "hirarchyRoles": [
+                  101611,
+                  101607
+                ],
+                "translatable": [
+                  {
+                    "values": {
+                      "name": "Mindex development team"
+                    },
+                    "lang": "en"
+                  },
+                  {
+                    "values": {
+                      "name": "Mindex development team"
+                    },
+                    "lang": "ar"
+                  }
+                ]
+              }
+            },
+            {
+              "children": [],
+              "value": {
+                "id": 328,
+                "path": 328,
+                "en": "DevOps Team",
+                "ar": "DevOps Team",
+                "code": "30",
+                "parentId": 161,
+                "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/DevOps Team-1628668227951.png",
+                "hirarchyRoles": [
+                  101606,
+                  101607
+                ],
+                "translatable": [
+                  {
+                    "values": {
+                      "name": "DevOps Team"
+                    },
+                    "lang": "en"
+                  },
+                  {
+                    "values": {
+                      "name": "DevOps Team"
+                    },
+                    "lang": "ar"
+                  }
+                ]
+              }
+            },
+            {
+              "children": [],
+              "value": {
+                "id": 326,
+                "path": 326,
+                "en": "GIS Team ",
+                "ar": "GIS Team ",
+                "code": "25",
+                "parentId": 161,
+                "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/GIS Team -1627466061104.png",
+                "hirarchyRoles": [
+                  101604
+                ],
+                "translatable": [
+                  {
+                    "values": {
+                      "name": "GIS Team "
+                    },
+                    "lang": "en"
+                  },
+                  {
+                    "values": {
+                      "name": "GIS Team "
+                    },
+                    "lang": "ar"
+                  }
+                ]
+              }
+            },
+            {
+              "children": [],
+              "value": {
+                "id": 164,
+                "path": 164,
+                "en": "Quality Control Team ",
+                "ar": "فريق ضبط الجودة",
+                "code": "5",
+                "parentId": 161,
+                "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/2022-03-22_11-39-00.png",
+                "hirarchyRoles": [
+                  101590,
+                  101591
+                ],
+                "translatable": [
+                  {
+                    "values": {
+                      "name": "Quality Control Team "
+                    },
+                    "lang": "en"
+                  },
+                  {
+                    "values": {
+                      "name": "فريق ضبط الجودة"
+                    },
+                    "lang": "ar"
+                  }
+                ]
+              }
+            },
+            {
+              "children": [],
+              "value": {
+                "id": 165,
+                "path": 165,
+                "en": "Mobile Development Team ",
+                "ar": "Mobile Development Team ",
+                "code": "6",
+                "parentId": 161,
+                "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/2022-03-22_11-36-15.png",
+                "hirarchyRoles": [
+                  101587,
+                  101589
+                ],
+                "translatable": [
+                  {
+                    "values": {
+                      "name": "Mobile Development Team "
+                    },
+                    "lang": "en"
+                  },
+                  {
+                    "values": {
+                      "name": "Mobile Development Team "
+                    },
+                    "lang": "ar"
+                  }
+                ]
+              }
+            },
+            {
+              "children": [],
+              "value": {
+                "id": 166,
+                "path": 166,
+                "en": "Web Development Team ",
+                "ar": "Web Development Team ",
+                "code": "7",
+                "parentId": 161,
+                "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/2022-03-22_11-39-00.png",
+                "hirarchyRoles": [
+                  101593,
+                  101588,
+                  101607
+                ],
+                "translatable": [
+                  {
+                    "values": {
+                      "name": "Web Development Team "
+                    },
+                    "lang": "en"
+                  },
+                  {
+                    "values": {
+                      "name": "Web Development Team "
+                    },
+                    "lang": "ar"
+                  }
+                ]
+              }
+            },
+            {
+              "children": [],
+              "value": {
+                "id": 167,
+                "path": 167,
+                "en": "Data Services Team",
+                "ar": "Data Services Team",
+                "code": "8",
+                "parentId": 161,
+                "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/2022-03-22_11-39-00.png",
+                "hirarchyRoles": [
+                  101594,
+                  101595
+                ],
+                "translatable": [
+                  {
+                    "values": {
+                      "name": "Data Services Team"
+                    },
+                    "lang": "en"
+                  },
+                  {
+                    "values": {
+                      "name": "Data Services Team"
+                    },
+                    "lang": "ar"
+                  }
+                ]
+              }
+            },
+            {
+              "children": [],
+              "value": {
+                "id": 168,
+                "path": 168,
+                "en": "Design Team",
+                "ar": "Design Team",
+                "code": "9",
+                "parentId": 161,
+                "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/2022-03-22_11-39-00.png",
+                "hirarchyRoles": [
+                  101596
+                ],
+                "translatable": [
+                  {
+                    "values": {
+                      "name": "Design Team"
+                    },
+                    "lang": "en"
+                  },
+                  {
+                    "values": {
+                      "name": "Design Team"
+                    },
+                    "lang": "ar"
+                  }
+                ]
+              }
+            }
+          ],
+          "value": {
+            "id": 161,
+            "path": 161,
+            "en": "Technical Team Unit ",
+            "ar": "وحدة الفرق الفنية",
+            "code": "2",
+            "parentId": 1,
+            "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/2022-03-22_11-39-00.png",
+            "hirarchyRoles": [
+              101582,
+              101584
+            ],
+            "translatable": [
+              {
+                "values": {
+                  "name": "Technical Team Unit "
+                },
+                "lang": "en"
+              },
+              {
+                "values": {
+                  "name": "وحدة الفرق الفنية"
+                },
+                "lang": "ar"
+              }
+            ]
+          }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [],
+                  "value": {
+                    "id": 335,
+                    "path": 335,
+                    "en": "Clients",
+                    "ar": "Clients",
+                    "code": "9000",
+                    "parentId": 331,
+                    "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/Clients-1650537392265.png",
+                    "hirarchyRoles": [
+                      101605
+                    ],
+                    "translatable": [
+                      {
+                        "values": {
+                          "name": "Clients"
+                        },
+                        "lang": "en"
+                      },
+                      {
+                        "values": {
+                          "name": "Clients"
+                        },
+                        "lang": "ar"
+                      }
+                    ]
+                  }
+                }
+              ],
+              "value": {
+                "id": 331,
+                "path": 331,
+                "en": "Support and operations Units ",
+                "ar": "Support and operations Units ",
+                "code": "45",
+                "parentId": 162,
+                "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/Support and operations Units -1631550209635.png",
+                "hirarchyRoles": [
+                  101609
+                ],
+                "translatable": [
+                  {
+                    "values": {
+                      "name": "Support and operations Units "
+                    },
+                    "lang": "en"
+                  },
+                  {
+                    "values": {
+                      "name": "Support and operations Units "
+                    },
+                    "lang": "ar"
+                  }
+                ]
+              }
+            },
+            {
+              "children": [],
+              "value": {
+                "id": 321,
+                "path": 321,
+                "en": "Sales Team ",
+                "ar": "Sales Team ",
+                "code": "1101",
+                "parentId": 162,
+                "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/Sales Team -1624513790361.png",
+                "hirarchyRoles": [
+                  101605
+                ],
+                "translatable": [
+                  {
+                    "values": {
+                      "name": "Sales Team "
+                    },
+                    "lang": "en"
+                  },
+                  {
+                    "values": {
+                      "name": "Sales Team "
+                    },
+                    "lang": "ar"
+                  }
+                ]
+              }
+            },
+            {
+              "children": [],
+              "value": {
+                "id": 322,
+                "path": 322,
+                "en": "Marketing Team ",
+                "ar": "Marketing Team ",
+                "code": "1102",
+                "parentId": 162,
+                "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/Marketing Team -1624513804248.png",
+                "hirarchyRoles": [
+                  101609
+                ],
+                "translatable": [
+                  {
+                    "values": {
+                      "name": "Marketing Team "
+                    },
+                    "lang": "en"
+                  },
+                  {
+                    "values": {
+                      "name": "Marketing Team "
+                    },
+                    "lang": "ar"
+                  }
+                ]
+              }
+            }
+          ],
+          "value": {
+            "id": 162,
+            "path": 162,
+            "en": "Buisness Development Unit ",
+            "ar": "وحدة تطوير الاعمال",
+            "code": "3",
+            "parentId": 1,
+            "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/2022-03-22_11-39-00.png",
+            "hirarchyRoles": [
+              101582
+            ],
+            "translatable": [
+              {
+                "values": {
+                  "name": "Buisness Development Unit "
+                },
+                "lang": "en"
+              },
+              {
+                "values": {
+                  "name": "وحدة تطوير الاعمال"
+                },
+                "lang": "ar"
+              }
+            ]
+          }
+        },
+        {
+          "children": [],
+          "value": {
+            "id": 163,
+            "path": 163,
+            "en": "Project Management Unit",
+            "ar": "وحدة ادارة المشاريع",
+            "code": "4",
+            "parentId": 1,
+            "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/2022-03-22_11-39-00.png",
+            "hirarchyRoles": [
+              101583,
+              101586,
+              101592,
+              101603
+            ],
+            "translatable": [
+              {
+                "values": {
+                  "name": "Project Management Unit"
+                },
+                "lang": "en"
+              },
+              {
+                "values": {
+                  "name": "وحدة ادارة المشاريع"
+                },
+                "lang": "ar"
+              }
+            ]
+          }
+        }
+      ],
+      "value": {
+        "id": 1,
+        "path": 1,
+        "en": "Top Management",
+        "ar": "مجلس الادارة",
+        "code": "1",
+        "parentId": "",
+        "image": "https://realsoftapps.com/Adaa_New/adaaapi/images/2022-03-22_11-34-02.png",
+        "hirarchyRoles": [
+          101582,
+          101584,
+          101583,
+          101592,
+          101603,
+          101601,
+          101626
+        ],
+        "translatable": [
+          {
+            "values": {
+              "name": "Top Management"
+            },
+            "lang": "en"
+          },
+          {
+            "values": {
+              "name": "مجلس الادارة"
+            },
+            "lang": "ar"
+          }
+        ]
+      }
+    }
+  ]
+}
