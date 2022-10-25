@@ -7,10 +7,12 @@ import { OrganizationChartModule } from 'primeng/organizationchart'
 import { PanelModule } from 'primeng/panel'
 
 import { AppComponent } from './app.component';
+import { MyChartComponent } from './my-chart/my-chart.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    MyChartComponent
   ],
   imports: [
     BrowserModule,

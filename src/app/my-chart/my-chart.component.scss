@@ -1,0 +1,28 @@
+:host{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    text-align: center;
+  }
+  
+  
+  .main{
+    min-width: 100px;
+    border-top: 1px solid grey;
+//    position: absolute
+  }
+  
+  .no-border{
+    border: none;
+  }
+  
+  .item{
+    margin: 15px  20px;
+    position: relative;
+  }
+  .line{
+    position: absolute;
+    left: 50%;
+    height: 15px;
+    border: 1px solid grey;
+  }

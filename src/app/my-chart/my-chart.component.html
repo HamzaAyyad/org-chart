@@ -1,0 +1,8 @@
+<div class="main" *ngFor="let item of child" [class.no-border]="!item.value.parentId">
+    <div class="item"><button (click)="hideChildren($event,item)" *ngIf="item.children.length"
+            id="{{item.value.id}}">plus</button> {{item.value.en}}
+        <div class="line" *ngIf="item.children.length"></div>
+    </div>
+
+    <app-my-chart [child]="item.children" *ngIf="childState "></app-my-chart>
+</div>
